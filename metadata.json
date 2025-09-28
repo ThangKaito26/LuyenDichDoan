@@ -1,0 +1,5 @@
+{
+  "name": "English Mastery Hub",
+  "description": "An AI-powered web application for practicing Vietnamese to English paragraph translation with instant feedback from the Gemini API.",
+  "requestFramePermissions": []
+}
